@@ -24,7 +24,6 @@ Go to the **Releases** page and download the latest `AlphaImaging-Windows.zip`.
 
 ## Notes
 
-- Windows may show a SmartScreen warning for unsigned apps. This is normal for small independent tools.
 - This project is focused on alpha-channel workflows; it does not modify mesh geometry.
 
 ## License
